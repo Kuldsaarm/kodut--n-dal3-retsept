@@ -1,0 +1,57 @@
+body {
+    background-color: cornflowerblue ;
+}
+
+.heading {
+    text-align: center;
+}
+
+
+.heading1 {
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+.ingredients {
+    color:navy;
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 75px;
+    padding-bottom: 20px;
+    ;
+    
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin-left: 2rem;
+    font-size: rem;
+    
+}
+
+
+.instructions {
+    color: navy;
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.instructions ol {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+    margin-left: 2rem;
+    font-size: 1rem;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
